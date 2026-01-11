@@ -2,6 +2,9 @@
 
 An implementation of Tacotron speech synthesis in TensorFlow (Modified to use for Nepali Dataset.)
 
+## Demo
+https://www.youtube.com/watch?v=jTdbOnkWSg4
+
 ## Quick Start
 
 ### Installing dependencies
